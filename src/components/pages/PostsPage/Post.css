@@ -1,0 +1,15 @@
+.list-input {
+  margin: 2em 0;
+}
+.input-control {
+  display: flex;
+  justify-content: center;
+}
+.detail-btn {
+  margin-right: 5px;
+}
+.detail-btn a {
+  list-style-type: none;
+  text-decoration: none;
+  color: #fff !important;
+}
